@@ -19,7 +19,7 @@
       "minify": true
     }
   },
-  "repository": "https://github.com/jdknezek/mq-set-calc",
+  "repository": "https://github.com/Alabasterus/mq-set-calc-1.1",
   "scripts": {
     "install": "jspm install",
     "bundle": "jspm bundle app/main --minify",
